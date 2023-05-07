@@ -1,16 +1,4 @@
-# flutter_application_1
+# Catto Generator
 
-A new Flutter project.
+"Random Cat Pictures" is a simple Flutter app that generates a random cat picture each time the user taps the button on the screen. To use the app, simply download and install it on your device, then launch it and tap the button to generate a new cat picture.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
